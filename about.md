@@ -1,5 +1,11 @@
 ---
-title: About this website
+title: 关于我自己
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+## 章小布（ccy199）
+
+2017年毕业于武汉理工，现就职于携程参与广告后台相关研发工作。
+
+希望可以通过博客记录并分享自己的所学所感，如果能对你产生帮助那将是我的荣幸。
+
+如果有相关问题或见解，欢迎联系我：ccy199@yeah.net
