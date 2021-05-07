@@ -23,7 +23,7 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: '博客'
+title: ''
 description: 'CCY的个人博客'
 permalink: pretty
 
@@ -48,11 +48,11 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Posts
+    title: POSTS
     output: true
     description: "My thoughts and ideas"
     feature_text: |
-      Welcome to my blog
+      
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # Collection settings
