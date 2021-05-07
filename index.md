@@ -1,5 +1,5 @@
 ---
-title: Welcome to my website
+title: 欢迎来到我的博客
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
   ## 世界唯一不变的就是变化本身

@@ -23,8 +23,8 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: '博客'
+description: 'CCY的个人博客'
 permalink: pretty
 
 # Pagination
